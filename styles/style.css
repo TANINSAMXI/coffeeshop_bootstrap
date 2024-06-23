@@ -67,7 +67,7 @@ html ::-webkit-scrollbar{
     color: white;
 }
 #home .content p{
-    font-size: 14px;
+    font-size: 18px;
     color: white;
  }
 #btn{
@@ -122,10 +122,12 @@ html ::-webkit-scrollbar{
     transition: 0.5s;
     cursor:pointer;
 }
+
 #about-btn:hover{
     background-color: #b2744c;
     color: white;
 }
+
 @media screen and (max-width: 982px){
     #about p{
         font-size: 8px;
