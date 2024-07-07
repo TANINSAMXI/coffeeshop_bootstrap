@@ -145,7 +145,7 @@ html ::-webkit-scrollbar{
 
 #top-cards{
     width: 100%;
-    height: 60vh;
+    /*height: 60vh;*/
     background: #f7f5f2;
 }
 .heading2{
@@ -173,6 +173,75 @@ html ::-webkit-scrollbar{
 }
 
 
+
+#menu{
+    width: 100%;
+    margin-top: 60px;
+}
+.heading3{
+    text-align: center;
+    font-size: 30px;
+    color: #b2744c;
+    font-weight: bold;
+    border-bottom: 2px solid #b2744c;
+
+
+}
+#container2{
+    margin-top: 50px;
+}
+#menu .card{
+    box-shadow: rgba(149, 157, 165, 0.2) 0 8px 24px;
+}
+.star i{
+    color:#b2744c;
+}
+#menu h3{
+    text-align: center;
+    color: #b2744c;
+    margin-top: 10px;
+    font-size: 25px;
+
+}
+#menu p{
+    font-size: 16px;
+    color: #b2744c;
+    padding-top: 10px;
+}
+#menu p span{
+    float: right;
+    cursor:pointer;
+}
+
+
+
+#product{
+    width: 100%;
+}
+.heading4{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #b2744c;
+    padding-top: 100px;
+    border-bottom: 2px solid #b2744c;
+}
+#container3{
+    margin-top: 30px;
+}
+#product h3{
+    text-align: center;
+    color: #b2744c;
+    font-size: 23px;
+}
+#product p{
+    color: #b2744c;
+    padding-top: 10px;
+}
+#product span{
+    float: right;
+    cursor:pointer;
+}
 
 
 
