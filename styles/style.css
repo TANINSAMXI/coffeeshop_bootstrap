@@ -217,6 +217,7 @@ html ::-webkit-scrollbar{
 
 #product{
     width: 100%;
+
 }
 .heading4{
     text-align: center;
@@ -241,6 +242,33 @@ html ::-webkit-scrollbar{
 #product span{
     float: right;
     cursor:pointer;
+}
+
+
+
+#gallery{
+    width: 100%;
+}
+.heading5{
+    text-align: center;
+    color: black;
+    margin-top: 60px;
+    font-size: 30px;
+    font-weight: bold;
+}
+#gallery .heading5 span{
+    color: #b2744c;
+}
+#gallery .card{
+    margin-top: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#gallery .card img{
+    border-radius: 10px;
+    max-height:270px;
+
+
 }
 
 
